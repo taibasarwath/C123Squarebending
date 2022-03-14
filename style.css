@@ -3,10 +3,10 @@ body{
 }
 h3{
   background_color:"#1d3557";
-  color:"#f1faee"
+  color:"#f1faee";
 }
 bold{
-  color:red;
+  color:"red";
 }
 .copy_right_footer{
   position:fixed;
