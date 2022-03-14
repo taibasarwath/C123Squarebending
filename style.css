@@ -8,3 +8,11 @@ h3{
 bold{
   color:red;
 }
+.copy_right_footer{
+  position:fixed;
+  color:"#457b9d";
+  bottom:0;
+}
+canvas{
+  border:5px solid "#a8dadc";
+   box-shadow:5px 5px 5px;
